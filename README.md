@@ -15,7 +15,7 @@ Phone-X is a terminal-based public phone-number metadata tool for validation, fo
 
 
 ```bash
-git clone https://github.com/cybergana-web/Phone-X.git
+git clone https://github.com/argcyberskillhub/Phone-X.git
 ```
 
 
